@@ -1,0 +1,10 @@
+{
+  "taskList": "Task List",
+  "settings": "Settings",
+  "language": "Language",
+  "theme": "Theme",
+  "english": "English",
+  "arabic": "Arabic",
+  "light":"Light",
+  "dark": "Dark"
+}
